@@ -1,5 +1,6 @@
 // lab3.c CMPE 240
 // Larry Kiser April 22, 2018
+// Devon Bagley April 22, 2018
 
 #include <stdlib.h>
 #include <stdio.h>

@@ -12,7 +12,6 @@
 #include "lab3.h"
 
 // Simple boolean assert function for unit testing
-// DO NOT MODIFY THIS FUNCTION
 int assert( int test_result, char error_format[], ... ) {
 	va_list arguments ;
 	static int test_number = 1 ;
